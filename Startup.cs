@@ -31,6 +31,7 @@ namespace CarRental
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
+            Console.WriteLine("*********** 1");
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
@@ -49,9 +50,13 @@ namespace CarRental
                 app.UseHsts();
             }
 
+            Console.WriteLine("*********** 2");
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseCookiePolicy();
+
+            Console.WriteLine("*********** 3");
 
             app.UseMvc(routes =>
             {
@@ -59,6 +64,8 @@ namespace CarRental
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+
+            Console.WriteLine("*********** 4");
         }
     }
 }

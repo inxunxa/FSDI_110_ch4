@@ -14,12 +14,16 @@ E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.
 E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\CarRental.TagHelpers.input.cache
 E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\CarRental.TagHelpers.output.cache
 E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\CarRental.RazorCoreGenerate.cache
+E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\Razor\Views\Catalog\Index.g.cshtml.cs
+E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\Razor\Views\Home\Hello.g.cshtml.cs
 E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
 E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
 E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
 E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
 E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
 E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\Razor\Views\Test\About.g.cshtml.cs
+E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\Razor\Views\Test\Index.g.cshtml.cs
 E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
 E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
 E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\CarRental.RazorTargetAssemblyInfo.cache
@@ -28,6 +32,3 @@ E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.
 E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\CarRental.dll
 E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\CarRental.pdb
 E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\CarRental.csproj.CopyComplete
-E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\Razor\Views\Home\Hello.g.cshtml.cs
-E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\Razor\Views\Test\About.g.cshtml.cs
-E:\SDGKU\FSDI\FSDI 110 Aspnet core\Cohort4\lab2\CarRental\obj\Debug\netcoreapp2.2\Razor\Views\Test\Index.g.cshtml.cs
