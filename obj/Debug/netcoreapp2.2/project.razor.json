@@ -2991,6 +2991,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\Catalog\\Register.cshtml",
+      "TargetPath": "Views\\Catalog\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Catalog\\Index.cshtml",
       "TargetPath": "Views\\Catalog\\Index.cshtml",
       "FileKind": "mvc"

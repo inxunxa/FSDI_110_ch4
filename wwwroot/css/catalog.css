@@ -1,0 +1,11 @@
+.catalog {
+    border: 1px solid #333;
+}
+
+.card {
+    border: 1px solid red;
+}
+
+.car-img {
+    width: 100%;
+}
